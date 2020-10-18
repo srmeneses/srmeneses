@@ -1,4 +1,11 @@
-### Hi there 👋
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=srmeneses.visitor-badge)](https://github.com/srmeneses)
+[![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/srmeneses)](https://gist.github.com/srmeneses)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/srmeneses)](https://github.com/srmeneses)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelomeneses/)](https://www.linkedin.com/in/marcelomeneses/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srmeneses1@gmail.com)](mailto:srmeneses1@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/marcelomeneses/)](https://t.me/marcelomeneses/)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=srmeneses&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/srmeneses)
 
 <!--
 **srmeneses/srmeneses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
